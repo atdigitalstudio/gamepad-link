@@ -36,8 +36,8 @@ macOS 13 Ventura or later · Apple Silicon and Intel
 ### USB cable (lowest lag)
 
 1. On your phone, turn on **USB debugging** (Settings › Developer options).
-2. Plug the phone into your Mac and tap **Allow** on the phone.
-3. Open GamePad Link: it connects by itself.
+2. In GamePad Link, choose **USB cable**. The first time, click **Install**: it downloads adb, Google's free tool for the cable (about 16 MB, once).
+3. Plug the phone into your Mac and tap **Allow** on the phone. GamePad Link connects by itself.
 
 ## Need help?
 
@@ -50,6 +50,7 @@ macOS 13 Ventura or later · Apple Silicon and Intel
 
 GamePad Link only talks to your own phone, over your cable or your local network.
 It does not collect or send any personal data, and its settings stay on your Mac.
+The only Internet connection: when you click **Install** for the USB cable, it downloads adb from Google (dl.google.com).
 
 ---
 
@@ -84,8 +85,8 @@ macOS 13 Ventura ou plus récent · Apple Silicon et Intel
 **Câble USB (le plus réactif)**
 
 1. Sur le téléphone, activez le **débogage USB** (Paramètres › Options pour les développeurs).
-2. Branchez le téléphone au Mac et touchez **Autoriser** sur le téléphone.
-3. Ouvrez GamePad Link : il se connecte tout seul.
+2. Dans GamePad Link, choisissez **Câble USB**. La première fois, cliquez sur **Installer** : il télécharge adb, l'outil gratuit de Google pour le câble (environ 16 Mo, une seule fois).
+3. Branchez le téléphone au Mac et touchez **Autoriser** sur le téléphone. GamePad Link se connecte tout seul.
 
 ### Besoin d'aide ?
 
@@ -98,6 +99,7 @@ macOS 13 Ventura ou plus récent · Apple Silicon et Intel
 
 GamePad Link communique uniquement avec votre propre téléphone, par câble ou sur votre réseau local.
 Il ne collecte et n'envoie aucune donnée personnelle, et ses réglages restent sur votre Mac.
+Seule connexion à Internet : quand vous cliquez sur **Installer** pour le câble USB, il télécharge adb chez Google (dl.google.com).
 
 ---
 
